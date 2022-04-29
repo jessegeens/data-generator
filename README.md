@@ -1,4 +1,4 @@
-# Random financial data generator
+# Random data generator
 This node.js script generates random fake financial or exercise data, used to evaluate the performance of [PePSA](https://github.com/jessegeens/pepsa-component).
 
 ## Options
